@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1528553788 source:d:\cursos de universidad\semestre 3\algebra abstracta s3\ntl\prueba\main.cpp
+	"RSA.h"
+	"Functions.h"
+	<NTL/ZZ.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<bitset>
+	<vector>
+
+1528550749 source:d:\cursos de universidad\semestre 3\algebra abstracta s3\ntl\prueba\src\functions.cpp
+	"Functions.h"
+
+1528550743 d:\cursos de universidad\semestre 3\algebra abstracta s3\ntl\prueba\include\functions.h
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<stdio.h>
+	<sstream>
+	<stdlib.h>
+	<time.h>
+
+1528550743 source:d:\cursos de universidad\semestre 3\algebra abstracta s3\ntl\prueba\src\rsa.cpp
+	"RSA.h"
+
+1528510239 d:\cursos de universidad\semestre 3\algebra abstracta s3\ntl\prueba\include\rsa.h
+	"Functions.h"
+
