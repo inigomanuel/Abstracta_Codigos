@@ -13,7 +13,7 @@ private:
 public:
     int len;
 
-    Cesar(int);
+    Cesar(int,string);
     int modulo(int,int);
     string cifrar(string,int);
     string descifrar(string,int);

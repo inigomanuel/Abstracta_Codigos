@@ -1,8 +1,8 @@
 #include "Cesar.h"
 
-Cesar::Cesar(int clave1){
+Cesar::Cesar(int clave1, string alfabe3){
     clave1 = clave;
-    alfabeto = "abcdefghijklmnopqrstuvwxyz ";
+    alfabeto = alfabe3;
 	len = alfabeto.size();
 }
 

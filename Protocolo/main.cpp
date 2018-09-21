@@ -8,6 +8,7 @@
 using namespace std;
 
 int main(){
+    srand(time(NULL));
     /*
     ///Cesar
     int clave;
@@ -22,7 +23,6 @@ int main(){
 	string D = R.descifrar(C,clave);
 	cout<<"Mensaje Cifrado: "<< C <<endl;
 	cout<<"Mensaje Descifrado: "<< D <<endl;
-	*/
 
 	///Enigma
 	string msn="GATOS";
@@ -31,7 +31,7 @@ int main(){
     string dc=receptor.descifrado(ci);
 
 	///Affin
-    /*
+
     affin aff;
     string mensaje="Cause you brought out the best of me, A part of me I'd never seen, You took my soul wiped it clean, Our love was made for movie screens......pq te fuiste? alv 162-10-38585 Inigo Diez Canseco";
     cout<<aff.cifrado(mensaje)<<endl;
@@ -44,6 +44,5 @@ int main(){
     Affin Aff2(a,b);
     cout<<Aff2.descifrado(mensaje_cifrada)<<endl;
     */
-
     return 0;
 }

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1537483739 source:c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\main.cpp
+1537484560 source:c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\main.cpp
 	<iostream>
 	"Cesar.h"
 	"Enigma.h"
@@ -20,7 +20,10 @@
 	<stdlib.h>
 	<time.h>
 
-1537483243 c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\include\administrador.h
+1537487001 c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\include\administrador.h
+	"Affin.h"
+	"Cesar.h"
+	"Enigma.h"
 	<iostream>
 	<string>
 
@@ -30,7 +33,7 @@
 1537483170 source:c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\src\affin.cpp
 	"Affin.h"
 
-1537483989 source:c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\src\enigma.cpp
+1537484610 source:c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\src\enigma.cpp
 	"Enigma.h"
 
 1537482697 source:c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\src\cesar.cpp

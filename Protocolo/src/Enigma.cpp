@@ -9,7 +9,6 @@ Enigma::Enigma(int a,int b,int c,string clave){
     srotor(rtr2,b,l2);
     srotor(rtr3,c,l3);
     cout<<"l1= "<<l1<<"l2= "<<l2<<"l3= "<<l3<<endl;
-    //l3=1;
 }
 
 int Enigma::modulo(int a){
